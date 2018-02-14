@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26430.16
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SM Custom Headers", "SM Custom Headers\SM Custom Headers.csproj", "{D9B81396-7165-46E1-8D75-8B095BFA3F1F}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "Setup1", "Setup1\Setup1.vdproj", "{2496123A-05B6-49BE-ABA1-F48D9C675FA5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D9B81396-7165-46E1-8D75-8B095BFA3F1F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D9B81396-7165-46E1-8D75-8B095BFA3F1F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D9B81396-7165-46E1-8D75-8B095BFA3F1F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D9B81396-7165-46E1-8D75-8B095BFA3F1F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2496123A-05B6-49BE-ABA1-F48D9C675FA5}.Debug|Any CPU.ActiveCfg = Debug
+		{2496123A-05B6-49BE-ABA1-F48D9C675FA5}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
